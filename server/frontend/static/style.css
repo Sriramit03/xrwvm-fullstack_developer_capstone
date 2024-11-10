@@ -2,6 +2,24 @@ img{
   width: 60%;
   align-self: center;
 }
+.img-park{
+  width: 30%;
+  height:30%;
+  margin-top: 10px;
+}
+.straight-border{
+  border:2px solid black;
+  border-top: none;
+  border-right: none;
+  border-bottom: none;
+}
+.contact-det{
+    width:50%;
+    display: flex;
+    gap: 50px;
+    margin-top: 20px;
+    margin-bottom:20px;  
+}
 
 .card{
   border: rgb(103, 102, 105) 3px solid;
